@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.button {
+  height: 50px;
+  width: 150px;
+  border: 2px solid black;
+  margin-left: 38%;
+  text-align: center;
+}
+.header {
+  height: 150px;
+}
+.footer {
+  height: 150px;
+}
